@@ -1,5 +1,5 @@
-NAME	=	crappy
-OBJS	=	main.o Contact.o PhoneBook.o
+NAME	=	account
+OBJS	=	tests.o Account.o
 
 
 FLAGS	=	-std=c++98 -Wall -Wextra -Werror

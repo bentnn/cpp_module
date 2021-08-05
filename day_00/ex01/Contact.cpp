@@ -1,14 +1,14 @@
-#include "Contact.h"
+#include "Contact.hpp"
 
 Contact::Contact() {}
 Contact::~Contact() {}
 
-void Contact::print_about_me() {
-	std::cout << "First name " << first_name << std::endl;
-	std::cout << "Last name " << last_name << std::endl;
-	std::cout << "Nickname " << nickname << std::endl;
-	std::cout << "Phone number " << phone_number << std::endl;
-	std::cout << "Darkest secret " << darkest_secret << std::endl;
+void Contact::print_about_me() const{
+	std::cout << "First name: " << this->get_first_name() << std::endl;
+	std::cout << "Last name: " << this->get_last_name() << std::endl;
+	std::cout << "Nickname: " << this->get_nickname() << std::endl;
+	std::cout << "Phone number: " << this->get_phone_number() << std::endl;
+	std::cout << "Darkest secret: " << this->get_darkest_secret() << std::endl;
 }
 
 std::string Contact::get_first_name() const {

@@ -2,7 +2,7 @@ NAME	=	megaphone
 OBJS	=	megaphone.o
 
 
-FLAGS	=	-Wall -Wextra -Werror -std=c++98
+FLAGS	=	-std=c++98 -Wall -Wextra -Werror
 
 CC		=	clang++
 

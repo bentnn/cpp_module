@@ -86,13 +86,25 @@
 		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex01/Contact.cpp">
 			<Option target="cpp_module"/>
 		</Unit>
-		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex01/Contact.h">
+		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex01/Contact.hpp">
 			<Option target="cpp_module"/>
 		</Unit>
-		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex01/Phone_book.cpp">
+		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex01/PhoneBook.cpp">
 			<Option target="cpp_module"/>
 		</Unit>
-		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex01/Phone_book.h">
+		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex01/PhoneBook.hpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex01/main.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex02/Account.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex02/Account.hpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_00/ex02/tests.cpp">
 			<Option target="cpp_module"/>
 		</Unit>
 		<Unit filename="/Users/aabet/projects/cpp_module/CMakeLists.txt">

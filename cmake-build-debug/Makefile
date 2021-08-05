@@ -177,29 +177,101 @@ day_00/ex01/Contact.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/Contact.cpp.s
 .PHONY : day_00/ex01/Contact.cpp.s
 
-day_00/ex01/Phone_book.o: day_00/ex01/Phone_book.cpp.o
-.PHONY : day_00/ex01/Phone_book.o
+day_00/ex01/PhoneBook.o: day_00/ex01/PhoneBook.cpp.o
+.PHONY : day_00/ex01/PhoneBook.o
 
 # target to build an object file
-day_00/ex01/Phone_book.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.o
-.PHONY : day_00/ex01/Phone_book.cpp.o
+day_00/ex01/PhoneBook.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.o
+.PHONY : day_00/ex01/PhoneBook.cpp.o
 
-day_00/ex01/Phone_book.i: day_00/ex01/Phone_book.cpp.i
-.PHONY : day_00/ex01/Phone_book.i
+day_00/ex01/PhoneBook.i: day_00/ex01/PhoneBook.cpp.i
+.PHONY : day_00/ex01/PhoneBook.i
 
 # target to preprocess a source file
-day_00/ex01/Phone_book.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.i
-.PHONY : day_00/ex01/Phone_book.cpp.i
+day_00/ex01/PhoneBook.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.i
+.PHONY : day_00/ex01/PhoneBook.cpp.i
 
-day_00/ex01/Phone_book.s: day_00/ex01/Phone_book.cpp.s
-.PHONY : day_00/ex01/Phone_book.s
+day_00/ex01/PhoneBook.s: day_00/ex01/PhoneBook.cpp.s
+.PHONY : day_00/ex01/PhoneBook.s
 
 # target to generate assembly for a file
-day_00/ex01/Phone_book.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.s
-.PHONY : day_00/ex01/Phone_book.cpp.s
+day_00/ex01/PhoneBook.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.s
+.PHONY : day_00/ex01/PhoneBook.cpp.s
+
+day_00/ex01/main.o: day_00/ex01/main.cpp.o
+.PHONY : day_00/ex01/main.o
+
+# target to build an object file
+day_00/ex01/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.o
+.PHONY : day_00/ex01/main.cpp.o
+
+day_00/ex01/main.i: day_00/ex01/main.cpp.i
+.PHONY : day_00/ex01/main.i
+
+# target to preprocess a source file
+day_00/ex01/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.i
+.PHONY : day_00/ex01/main.cpp.i
+
+day_00/ex01/main.s: day_00/ex01/main.cpp.s
+.PHONY : day_00/ex01/main.s
+
+# target to generate assembly for a file
+day_00/ex01/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.s
+.PHONY : day_00/ex01/main.cpp.s
+
+day_00/ex02/Account.o: day_00/ex02/Account.cpp.o
+.PHONY : day_00/ex02/Account.o
+
+# target to build an object file
+day_00/ex02/Account.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.o
+.PHONY : day_00/ex02/Account.cpp.o
+
+day_00/ex02/Account.i: day_00/ex02/Account.cpp.i
+.PHONY : day_00/ex02/Account.i
+
+# target to preprocess a source file
+day_00/ex02/Account.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.i
+.PHONY : day_00/ex02/Account.cpp.i
+
+day_00/ex02/Account.s: day_00/ex02/Account.cpp.s
+.PHONY : day_00/ex02/Account.s
+
+# target to generate assembly for a file
+day_00/ex02/Account.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.s
+.PHONY : day_00/ex02/Account.cpp.s
+
+day_00/ex02/tests.o: day_00/ex02/tests.cpp.o
+.PHONY : day_00/ex02/tests.o
+
+# target to build an object file
+day_00/ex02/tests.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.o
+.PHONY : day_00/ex02/tests.cpp.o
+
+day_00/ex02/tests.i: day_00/ex02/tests.cpp.i
+.PHONY : day_00/ex02/tests.i
+
+# target to preprocess a source file
+day_00/ex02/tests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.i
+.PHONY : day_00/ex02/tests.cpp.i
+
+day_00/ex02/tests.s: day_00/ex02/tests.cpp.s
+.PHONY : day_00/ex02/tests.s
+
+# target to generate assembly for a file
+day_00/ex02/tests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.s
+.PHONY : day_00/ex02/tests.cpp.s
 
 # Help Target
 help:
@@ -216,9 +288,18 @@ help:
 	@echo "... day_00/ex01/Contact.o"
 	@echo "... day_00/ex01/Contact.i"
 	@echo "... day_00/ex01/Contact.s"
-	@echo "... day_00/ex01/Phone_book.o"
-	@echo "... day_00/ex01/Phone_book.i"
-	@echo "... day_00/ex01/Phone_book.s"
+	@echo "... day_00/ex01/PhoneBook.o"
+	@echo "... day_00/ex01/PhoneBook.i"
+	@echo "... day_00/ex01/PhoneBook.s"
+	@echo "... day_00/ex01/main.o"
+	@echo "... day_00/ex01/main.i"
+	@echo "... day_00/ex01/main.s"
+	@echo "... day_00/ex02/Account.o"
+	@echo "... day_00/ex02/Account.i"
+	@echo "... day_00/ex02/Account.s"
+	@echo "... day_00/ex02/tests.o"
+	@echo "... day_00/ex02/tests.i"
+	@echo "... day_00/ex02/tests.s"
 .PHONY : help
 
 

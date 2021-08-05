@@ -1,5 +1,5 @@
-#ifndef CPP_MODULE_CONTACT_H
-#define CPP_MODULE_CONTACT_H
+#ifndef CPP_MODULE_CONTACT_HPP
+#define CPP_MODULE_CONTACT_HPP
 
 # include <iostream>
 
@@ -8,7 +8,7 @@ public:
 	Contact( void );
 	~Contact( void );
 
-	void print_about_me();
+	void print_about_me() const;
 
 	std::string get_first_name() const;
 	std::string get_last_name() const;

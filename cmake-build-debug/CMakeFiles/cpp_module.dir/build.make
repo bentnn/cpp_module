@@ -92,34 +92,79 @@ CMakeFiles/cpp_module.dir/day_00/ex01/Contact.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_00/ex01/Contact.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_00/ex01/Contact.cpp -o CMakeFiles/cpp_module.dir/day_00/ex01/Contact.cpp.s
 
-CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.o: CMakeFiles/cpp_module.dir/flags.make
-CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.o: ../day_00/ex01/Phone_book.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.o -c /Users/aabet/projects/cpp_module/day_00/ex01/Phone_book.cpp
+CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.o: ../day_00/ex01/PhoneBook.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.o -c /Users/aabet/projects/cpp_module/day_00/ex01/PhoneBook.cpp
 
-CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day_00/ex01/Phone_book.cpp > CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.i
+CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day_00/ex01/PhoneBook.cpp > CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.i
 
-CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_00/ex01/Phone_book.cpp -o CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.s
+CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_00/ex01/PhoneBook.cpp -o CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.s
+
+CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.o: ../day_00/ex01/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.o -c /Users/aabet/projects/cpp_module/day_00/ex01/main.cpp
+
+CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day_00/ex01/main.cpp > CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.i
+
+CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_00/ex01/main.cpp -o CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.s
+
+CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.o: ../day_00/ex02/Account.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.o -c /Users/aabet/projects/cpp_module/day_00/ex02/Account.cpp
+
+CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day_00/ex02/Account.cpp > CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.i
+
+CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_00/ex02/Account.cpp -o CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.s
+
+CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.o: ../day_00/ex02/tests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.o -c /Users/aabet/projects/cpp_module/day_00/ex02/tests.cpp
+
+CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day_00/ex02/tests.cpp > CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.i
+
+CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_00/ex02/tests.cpp -o CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.s
 
 # Object files for target cpp_module
 cpp_module_OBJECTS = \
 "CMakeFiles/cpp_module.dir/day_00/ex00/megaphone.cpp.o" \
 "CMakeFiles/cpp_module.dir/day_00/ex01/Contact.cpp.o" \
-"CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.o"
+"CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.o" \
+"CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.o" \
+"CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.o" \
+"CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.o"
 
 # External object files for target cpp_module
 cpp_module_EXTERNAL_OBJECTS =
 
 cpp_module: CMakeFiles/cpp_module.dir/day_00/ex00/megaphone.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/day_00/ex01/Contact.cpp.o
-cpp_module: CMakeFiles/cpp_module.dir/day_00/ex01/Phone_book.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day_00/ex01/PhoneBook.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day_00/ex01/main.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day_00/ex02/Account.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day_00/ex02/tests.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/build.make
 cpp_module: CMakeFiles/cpp_module.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable cpp_module"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable cpp_module"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_module.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
