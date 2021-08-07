@@ -7,8 +7,7 @@ int main() {
 	while (true)
 	{
 		std::cout << "> ";
-		std::cin >> str;
-		if (str == "EXIT")
+		if (!(std::cin >> str) || str == "EXIT")
 			break;
 		else if (str == "ADD")
 			book.add();

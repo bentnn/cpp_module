@@ -25,6 +25,7 @@ Account::~Account() {
 void Account::makeDeposit(int deposit) {
 	this->_nbDeposits++;
 	_totalNbDeposits++;
+	_totalAmount += deposit;
 	_displayTimestamp();
 	std::cout << "index:" << this->_accountIndex << ";p_amount:"
 		<< this->_amount << ";deposit:" << deposit << ";amount:";

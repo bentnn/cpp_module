@@ -8,19 +8,24 @@ void PhoneBook::add() {
 	std::string str;
 
 	std::cout << "First name: ";
-	std::cin >> str;
+	if (!(std::cin >> str))
+		return;
 	temp.set_first_name(&str);
 	std::cout << "Last name: ";
-	std::cin >> str;
+	if (!(std::cin >> str))
+		return;
 	temp.set_last_name(&str);
 	std::cout << "Nickname: ";
-	std::cin >> str;
+	if (!(std::cin >> str))
+		return;
 	temp.set_nickname(&str);
 	std::cout << "Phone number: ";
-	std::cin >> str;
+	if (!(std::cin >> str))
+		return;
 	temp.set_phone_number(&str);
 	std::cout << "Darkest secret: ";
-	std::cin >> str;
+	if (!(std::cin >> str))
+		return;
 	temp.set_darkest_secret(&str);
 	this->array[this->cur] = temp;
 	this->cur++;
@@ -65,8 +70,11 @@ void PhoneBook::search() const{
 			this->print_in_ten_symb(array[i].get_nickname()) << "|\n";
 	}
 	std::cout << "Enter the index of a contact to display full information: ";
-	while (str.length() == 0)
-		std::cin >> str;
+//	while (str.length() == 0)
+//		std::cin >> str;
+	std::cin >> str;
+	if (str[0] == '\0')
+		return;
 	if (str.length() > 1 || !std::isdigit(str[0]))
 	{
 		std::cout << "Index is wrong\n";
