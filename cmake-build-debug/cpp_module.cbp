@@ -149,6 +149,15 @@
 		<Unit filename="/Users/aabet/projects/cpp_module/day_01/ex03/Weapon.hpp">
 			<Option target="cpp_module"/>
 		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_01/ex04/main.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_01/ex05/Karen.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_01/ex05/Karen.hpp">
+			<Option target="cpp_module"/>
+		</Unit>
 		<Unit filename="/Users/aabet/projects/cpp_module/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -24,6 +24,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/aabet/projects/cpp_module/day_01/ex03/HumanA.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day_01/ex03/HumanA.cpp.o"
   "/Users/aabet/projects/cpp_module/day_01/ex03/HumanB.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day_01/ex03/HumanB.cpp.o"
   "/Users/aabet/projects/cpp_module/day_01/ex03/Weapon.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day_01/ex03/Weapon.cpp.o"
+  "/Users/aabet/projects/cpp_module/day_01/ex04/main.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o"
+  "/Users/aabet/projects/cpp_module/day_01/ex05/Karen.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

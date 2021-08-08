@@ -15,6 +15,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_module.dir/day_01/ex03/HumanA.cpp.o"
   "CMakeFiles/cpp_module.dir/day_01/ex03/HumanB.cpp.o"
   "CMakeFiles/cpp_module.dir/day_01/ex03/Weapon.cpp.o"
+  "CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o"
+  "CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o"
   "cpp_module"
   "cpp_module.pdb"
 )

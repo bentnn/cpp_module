@@ -274,6 +274,32 @@ CMakeFiles/cpp_module.dir/day_01/ex03/HumanB.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_01/ex03/HumanB.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_01/ex03/HumanB.cpp -o CMakeFiles/cpp_module.dir/day_01/ex03/HumanB.cpp.s
 
+CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o: ../day_01/ex04/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o -c /Users/aabet/projects/cpp_module/day_01/ex04/main.cpp
+
+CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day_01/ex04/main.cpp > CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.i
+
+CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_01/ex04/main.cpp -o CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.s
+
+CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o: ../day_01/ex05/Karen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o -c /Users/aabet/projects/cpp_module/day_01/ex05/Karen.cpp
+
+CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day_01/ex05/Karen.cpp > CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.i
+
+CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day_01/ex05/Karen.cpp -o CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.s
+
 # Object files for target cpp_module
 cpp_module_OBJECTS = \
 "CMakeFiles/cpp_module.dir/day_00/ex00/megaphone.cpp.o" \
@@ -291,7 +317,9 @@ cpp_module_OBJECTS = \
 "CMakeFiles/cpp_module.dir/day_01/ex02/main.cpp.o" \
 "CMakeFiles/cpp_module.dir/day_01/ex03/Weapon.cpp.o" \
 "CMakeFiles/cpp_module.dir/day_01/ex03/HumanA.cpp.o" \
-"CMakeFiles/cpp_module.dir/day_01/ex03/HumanB.cpp.o"
+"CMakeFiles/cpp_module.dir/day_01/ex03/HumanB.cpp.o" \
+"CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o" \
+"CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o"
 
 # External object files for target cpp_module
 cpp_module_EXTERNAL_OBJECTS =
@@ -312,9 +340,11 @@ cpp_module: CMakeFiles/cpp_module.dir/day_01/ex02/main.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/day_01/ex03/Weapon.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/day_01/ex03/HumanA.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/day_01/ex03/HumanB.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/build.make
 cpp_module: CMakeFiles/cpp_module.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable cpp_module"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable cpp_module"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_module.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

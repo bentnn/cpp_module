@@ -513,6 +513,54 @@ day_01/ex03/Weapon.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_01/ex03/Weapon.cpp.s
 .PHONY : day_01/ex03/Weapon.cpp.s
 
+day_01/ex04/main.o: day_01/ex04/main.cpp.o
+.PHONY : day_01/ex04/main.o
+
+# target to build an object file
+day_01/ex04/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.o
+.PHONY : day_01/ex04/main.cpp.o
+
+day_01/ex04/main.i: day_01/ex04/main.cpp.i
+.PHONY : day_01/ex04/main.i
+
+# target to preprocess a source file
+day_01/ex04/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.i
+.PHONY : day_01/ex04/main.cpp.i
+
+day_01/ex04/main.s: day_01/ex04/main.cpp.s
+.PHONY : day_01/ex04/main.s
+
+# target to generate assembly for a file
+day_01/ex04/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_01/ex04/main.cpp.s
+.PHONY : day_01/ex04/main.cpp.s
+
+day_01/ex05/Karen.o: day_01/ex05/Karen.cpp.o
+.PHONY : day_01/ex05/Karen.o
+
+# target to build an object file
+day_01/ex05/Karen.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.o
+.PHONY : day_01/ex05/Karen.cpp.o
+
+day_01/ex05/Karen.i: day_01/ex05/Karen.cpp.i
+.PHONY : day_01/ex05/Karen.i
+
+# target to preprocess a source file
+day_01/ex05/Karen.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.i
+.PHONY : day_01/ex05/Karen.cpp.i
+
+day_01/ex05/Karen.s: day_01/ex05/Karen.cpp.s
+.PHONY : day_01/ex05/Karen.s
+
+# target to generate assembly for a file
+day_01/ex05/Karen.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.s
+.PHONY : day_01/ex05/Karen.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -570,6 +618,12 @@ help:
 	@echo "... day_01/ex03/Weapon.o"
 	@echo "... day_01/ex03/Weapon.i"
 	@echo "... day_01/ex03/Weapon.s"
+	@echo "... day_01/ex04/main.o"
+	@echo "... day_01/ex04/main.i"
+	@echo "... day_01/ex04/main.s"
+	@echo "... day_01/ex05/Karen.o"
+	@echo "... day_01/ex05/Karen.i"
+	@echo "... day_01/ex05/Karen.s"
 .PHONY : help
 
 
