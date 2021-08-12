@@ -158,6 +158,24 @@
 		<Unit filename="/Users/aabet/projects/cpp_module/day_01/ex05/Karen.hpp">
 			<Option target="cpp_module"/>
 		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_02/ex00/Fixed.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_02/ex00/Fixed.hpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_02/ex00/main.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_02/ex01/Fixed.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_02/ex01/Fixed.hpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day_02/ex01/main.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
 		<Unit filename="/Users/aabet/projects/cpp_module/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

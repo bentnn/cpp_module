@@ -561,6 +561,102 @@ day_01/ex05/Karen.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_01/ex05/Karen.cpp.s
 .PHONY : day_01/ex05/Karen.cpp.s
 
+day_02/ex00/Fixed.o: day_02/ex00/Fixed.cpp.o
+.PHONY : day_02/ex00/Fixed.o
+
+# target to build an object file
+day_02/ex00/Fixed.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex00/Fixed.cpp.o
+.PHONY : day_02/ex00/Fixed.cpp.o
+
+day_02/ex00/Fixed.i: day_02/ex00/Fixed.cpp.i
+.PHONY : day_02/ex00/Fixed.i
+
+# target to preprocess a source file
+day_02/ex00/Fixed.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex00/Fixed.cpp.i
+.PHONY : day_02/ex00/Fixed.cpp.i
+
+day_02/ex00/Fixed.s: day_02/ex00/Fixed.cpp.s
+.PHONY : day_02/ex00/Fixed.s
+
+# target to generate assembly for a file
+day_02/ex00/Fixed.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex00/Fixed.cpp.s
+.PHONY : day_02/ex00/Fixed.cpp.s
+
+day_02/ex00/main.o: day_02/ex00/main.cpp.o
+.PHONY : day_02/ex00/main.o
+
+# target to build an object file
+day_02/ex00/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex00/main.cpp.o
+.PHONY : day_02/ex00/main.cpp.o
+
+day_02/ex00/main.i: day_02/ex00/main.cpp.i
+.PHONY : day_02/ex00/main.i
+
+# target to preprocess a source file
+day_02/ex00/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex00/main.cpp.i
+.PHONY : day_02/ex00/main.cpp.i
+
+day_02/ex00/main.s: day_02/ex00/main.cpp.s
+.PHONY : day_02/ex00/main.s
+
+# target to generate assembly for a file
+day_02/ex00/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex00/main.cpp.s
+.PHONY : day_02/ex00/main.cpp.s
+
+day_02/ex01/Fixed.o: day_02/ex01/Fixed.cpp.o
+.PHONY : day_02/ex01/Fixed.o
+
+# target to build an object file
+day_02/ex01/Fixed.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex01/Fixed.cpp.o
+.PHONY : day_02/ex01/Fixed.cpp.o
+
+day_02/ex01/Fixed.i: day_02/ex01/Fixed.cpp.i
+.PHONY : day_02/ex01/Fixed.i
+
+# target to preprocess a source file
+day_02/ex01/Fixed.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex01/Fixed.cpp.i
+.PHONY : day_02/ex01/Fixed.cpp.i
+
+day_02/ex01/Fixed.s: day_02/ex01/Fixed.cpp.s
+.PHONY : day_02/ex01/Fixed.s
+
+# target to generate assembly for a file
+day_02/ex01/Fixed.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex01/Fixed.cpp.s
+.PHONY : day_02/ex01/Fixed.cpp.s
+
+day_02/ex01/main.o: day_02/ex01/main.cpp.o
+.PHONY : day_02/ex01/main.o
+
+# target to build an object file
+day_02/ex01/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex01/main.cpp.o
+.PHONY : day_02/ex01/main.cpp.o
+
+day_02/ex01/main.i: day_02/ex01/main.cpp.i
+.PHONY : day_02/ex01/main.i
+
+# target to preprocess a source file
+day_02/ex01/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex01/main.cpp.i
+.PHONY : day_02/ex01/main.cpp.i
+
+day_02/ex01/main.s: day_02/ex01/main.cpp.s
+.PHONY : day_02/ex01/main.s
+
+# target to generate assembly for a file
+day_02/ex01/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day_02/ex01/main.cpp.s
+.PHONY : day_02/ex01/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -624,6 +720,18 @@ help:
 	@echo "... day_01/ex05/Karen.o"
 	@echo "... day_01/ex05/Karen.i"
 	@echo "... day_01/ex05/Karen.s"
+	@echo "... day_02/ex00/Fixed.o"
+	@echo "... day_02/ex00/Fixed.i"
+	@echo "... day_02/ex00/Fixed.s"
+	@echo "... day_02/ex00/main.o"
+	@echo "... day_02/ex00/main.i"
+	@echo "... day_02/ex00/main.s"
+	@echo "... day_02/ex01/Fixed.o"
+	@echo "... day_02/ex01/Fixed.i"
+	@echo "... day_02/ex01/Fixed.s"
+	@echo "... day_02/ex01/main.o"
+	@echo "... day_02/ex01/main.i"
+	@echo "... day_02/ex01/main.s"
 .PHONY : help
 
 

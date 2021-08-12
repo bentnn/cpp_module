@@ -29,12 +29,15 @@ int main(int argc, char **argv) {
 	std::string s1 = (std::string)argv[2];
 	std::string s2 = (std::string)argv[3];
 	std::size_t find;
+
 	while (std::getline(out, str))
 	{
-		while ((find = str.find(s1)) != std::string::npos)
+		find = 0;
+		while ((find = str.find(s1, find)) != std::string::npos)
 		{
 			str.erase(find, s1.length());
 			str.insert(find, s2);
+			find += s2.length();
 		}
 		in << str << "\n";
 	}
