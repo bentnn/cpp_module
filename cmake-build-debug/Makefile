@@ -873,6 +873,222 @@ day03/ex01/ScavTrap.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day03/ex01/ScavTrap.cpp.s
 .PHONY : day03/ex01/ScavTrap.cpp.s
 
+day03/ex02/FragTrap.o: day03/ex02/FragTrap.cpp.o
+.PHONY : day03/ex02/FragTrap.o
+
+# target to build an object file
+day03/ex02/FragTrap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.o
+.PHONY : day03/ex02/FragTrap.cpp.o
+
+day03/ex02/FragTrap.i: day03/ex02/FragTrap.cpp.i
+.PHONY : day03/ex02/FragTrap.i
+
+# target to preprocess a source file
+day03/ex02/FragTrap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.i
+.PHONY : day03/ex02/FragTrap.cpp.i
+
+day03/ex02/FragTrap.s: day03/ex02/FragTrap.cpp.s
+.PHONY : day03/ex02/FragTrap.s
+
+# target to generate assembly for a file
+day03/ex02/FragTrap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.s
+.PHONY : day03/ex02/FragTrap.cpp.s
+
+day03/ex03/DiamondTrap.o: day03/ex03/DiamondTrap.cpp.o
+.PHONY : day03/ex03/DiamondTrap.o
+
+# target to build an object file
+day03/ex03/DiamondTrap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.o
+.PHONY : day03/ex03/DiamondTrap.cpp.o
+
+day03/ex03/DiamondTrap.i: day03/ex03/DiamondTrap.cpp.i
+.PHONY : day03/ex03/DiamondTrap.i
+
+# target to preprocess a source file
+day03/ex03/DiamondTrap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.i
+.PHONY : day03/ex03/DiamondTrap.cpp.i
+
+day03/ex03/DiamondTrap.s: day03/ex03/DiamondTrap.cpp.s
+.PHONY : day03/ex03/DiamondTrap.s
+
+# target to generate assembly for a file
+day03/ex03/DiamondTrap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.s
+.PHONY : day03/ex03/DiamondTrap.cpp.s
+
+day04/ex00/Animal.o: day04/ex00/Animal.cpp.o
+.PHONY : day04/ex00/Animal.o
+
+# target to build an object file
+day04/ex00/Animal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.o
+.PHONY : day04/ex00/Animal.cpp.o
+
+day04/ex00/Animal.i: day04/ex00/Animal.cpp.i
+.PHONY : day04/ex00/Animal.i
+
+# target to preprocess a source file
+day04/ex00/Animal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.i
+.PHONY : day04/ex00/Animal.cpp.i
+
+day04/ex00/Animal.s: day04/ex00/Animal.cpp.s
+.PHONY : day04/ex00/Animal.s
+
+# target to generate assembly for a file
+day04/ex00/Animal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.s
+.PHONY : day04/ex00/Animal.cpp.s
+
+day04/ex00/Cat.o: day04/ex00/Cat.cpp.o
+.PHONY : day04/ex00/Cat.o
+
+# target to build an object file
+day04/ex00/Cat.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.o
+.PHONY : day04/ex00/Cat.cpp.o
+
+day04/ex00/Cat.i: day04/ex00/Cat.cpp.i
+.PHONY : day04/ex00/Cat.i
+
+# target to preprocess a source file
+day04/ex00/Cat.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.i
+.PHONY : day04/ex00/Cat.cpp.i
+
+day04/ex00/Cat.s: day04/ex00/Cat.cpp.s
+.PHONY : day04/ex00/Cat.s
+
+# target to generate assembly for a file
+day04/ex00/Cat.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.s
+.PHONY : day04/ex00/Cat.cpp.s
+
+day04/ex00/Dog.o: day04/ex00/Dog.cpp.o
+.PHONY : day04/ex00/Dog.o
+
+# target to build an object file
+day04/ex00/Dog.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.o
+.PHONY : day04/ex00/Dog.cpp.o
+
+day04/ex00/Dog.i: day04/ex00/Dog.cpp.i
+.PHONY : day04/ex00/Dog.i
+
+# target to preprocess a source file
+day04/ex00/Dog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.i
+.PHONY : day04/ex00/Dog.cpp.i
+
+day04/ex00/Dog.s: day04/ex00/Dog.cpp.s
+.PHONY : day04/ex00/Dog.s
+
+# target to generate assembly for a file
+day04/ex00/Dog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.s
+.PHONY : day04/ex00/Dog.cpp.s
+
+day04/ex00/WrongAnimal.o: day04/ex00/WrongAnimal.cpp.o
+.PHONY : day04/ex00/WrongAnimal.o
+
+# target to build an object file
+day04/ex00/WrongAnimal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.o
+.PHONY : day04/ex00/WrongAnimal.cpp.o
+
+day04/ex00/WrongAnimal.i: day04/ex00/WrongAnimal.cpp.i
+.PHONY : day04/ex00/WrongAnimal.i
+
+# target to preprocess a source file
+day04/ex00/WrongAnimal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.i
+.PHONY : day04/ex00/WrongAnimal.cpp.i
+
+day04/ex00/WrongAnimal.s: day04/ex00/WrongAnimal.cpp.s
+.PHONY : day04/ex00/WrongAnimal.s
+
+# target to generate assembly for a file
+day04/ex00/WrongAnimal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.s
+.PHONY : day04/ex00/WrongAnimal.cpp.s
+
+day04/ex00/WrongCat.o: day04/ex00/WrongCat.cpp.o
+.PHONY : day04/ex00/WrongCat.o
+
+# target to build an object file
+day04/ex00/WrongCat.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.o
+.PHONY : day04/ex00/WrongCat.cpp.o
+
+day04/ex00/WrongCat.i: day04/ex00/WrongCat.cpp.i
+.PHONY : day04/ex00/WrongCat.i
+
+# target to preprocess a source file
+day04/ex00/WrongCat.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.i
+.PHONY : day04/ex00/WrongCat.cpp.i
+
+day04/ex00/WrongCat.s: day04/ex00/WrongCat.cpp.s
+.PHONY : day04/ex00/WrongCat.s
+
+# target to generate assembly for a file
+day04/ex00/WrongCat.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.s
+.PHONY : day04/ex00/WrongCat.cpp.s
+
+day04/ex00/main.o: day04/ex00/main.cpp.o
+.PHONY : day04/ex00/main.o
+
+# target to build an object file
+day04/ex00/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.o
+.PHONY : day04/ex00/main.cpp.o
+
+day04/ex00/main.i: day04/ex00/main.cpp.i
+.PHONY : day04/ex00/main.i
+
+# target to preprocess a source file
+day04/ex00/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.i
+.PHONY : day04/ex00/main.cpp.i
+
+day04/ex00/main.s: day04/ex00/main.cpp.s
+.PHONY : day04/ex00/main.s
+
+# target to generate assembly for a file
+day04/ex00/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.s
+.PHONY : day04/ex00/main.cpp.s
+
+day04/ex01/Brain.o: day04/ex01/Brain.cpp.o
+.PHONY : day04/ex01/Brain.o
+
+# target to build an object file
+day04/ex01/Brain.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.o
+.PHONY : day04/ex01/Brain.cpp.o
+
+day04/ex01/Brain.i: day04/ex01/Brain.cpp.i
+.PHONY : day04/ex01/Brain.i
+
+# target to preprocess a source file
+day04/ex01/Brain.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.i
+.PHONY : day04/ex01/Brain.cpp.i
+
+day04/ex01/Brain.s: day04/ex01/Brain.cpp.s
+.PHONY : day04/ex01/Brain.s
+
+# target to generate assembly for a file
+day04/ex01/Brain.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.s
+.PHONY : day04/ex01/Brain.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -975,6 +1191,33 @@ help:
 	@echo "... day03/ex01/ScavTrap.o"
 	@echo "... day03/ex01/ScavTrap.i"
 	@echo "... day03/ex01/ScavTrap.s"
+	@echo "... day03/ex02/FragTrap.o"
+	@echo "... day03/ex02/FragTrap.i"
+	@echo "... day03/ex02/FragTrap.s"
+	@echo "... day03/ex03/DiamondTrap.o"
+	@echo "... day03/ex03/DiamondTrap.i"
+	@echo "... day03/ex03/DiamondTrap.s"
+	@echo "... day04/ex00/Animal.o"
+	@echo "... day04/ex00/Animal.i"
+	@echo "... day04/ex00/Animal.s"
+	@echo "... day04/ex00/Cat.o"
+	@echo "... day04/ex00/Cat.i"
+	@echo "... day04/ex00/Cat.s"
+	@echo "... day04/ex00/Dog.o"
+	@echo "... day04/ex00/Dog.i"
+	@echo "... day04/ex00/Dog.s"
+	@echo "... day04/ex00/WrongAnimal.o"
+	@echo "... day04/ex00/WrongAnimal.i"
+	@echo "... day04/ex00/WrongAnimal.s"
+	@echo "... day04/ex00/WrongCat.o"
+	@echo "... day04/ex00/WrongCat.i"
+	@echo "... day04/ex00/WrongCat.s"
+	@echo "... day04/ex00/main.o"
+	@echo "... day04/ex00/main.i"
+	@echo "... day04/ex00/main.s"
+	@echo "... day04/ex01/Brain.o"
+	@echo "... day04/ex01/Brain.i"
+	@echo "... day04/ex01/Brain.s"
 .PHONY : help
 
 

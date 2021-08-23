@@ -1,5 +1,5 @@
-NAME	=	scavtrap
-OBJS	=	main.o ClapTrap.o ScavTrap.o
+NAME	=	fragtrap
+OBJS	=	main.o ClapTrap.o ScavTrap.o FragTrap.o
 
 
 FLAGS	=	-std=c++98 -Wall -Wextra -Werror

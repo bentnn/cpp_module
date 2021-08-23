@@ -3,7 +3,7 @@
 
 ClapTrap::ClapTrap(std::string name): name(name), hit_points(10),
 										energy_points(10), attack_damage(0) {
-	std::cout << "ClapTrap <" << name << "> was born\n";
+	std::cout << "ClapTrap <" << this->name << "> was born\n";
 }
 
 ClapTrap::~ClapTrap() {

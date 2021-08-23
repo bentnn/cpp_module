@@ -39,6 +39,15 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/aabet/projects/cpp_module/day03/ex00/ClapTrap.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day03/ex00/ClapTrap.cpp.o"
   "/Users/aabet/projects/cpp_module/day03/ex00/main.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day03/ex00/main.cpp.o"
   "/Users/aabet/projects/cpp_module/day03/ex01/ScavTrap.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day03/ex01/ScavTrap.cpp.o"
+  "/Users/aabet/projects/cpp_module/day03/ex02/FragTrap.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.o"
+  "/Users/aabet/projects/cpp_module/day03/ex03/DiamondTrap.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.o"
+  "/Users/aabet/projects/cpp_module/day04/ex00/Animal.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.o"
+  "/Users/aabet/projects/cpp_module/day04/ex00/Cat.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.o"
+  "/Users/aabet/projects/cpp_module/day04/ex00/Dog.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.o"
+  "/Users/aabet/projects/cpp_module/day04/ex00/WrongAnimal.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.o"
+  "/Users/aabet/projects/cpp_module/day04/ex00/WrongCat.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.o"
+  "/Users/aabet/projects/cpp_module/day04/ex00/main.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.o"
+  "/Users/aabet/projects/cpp_module/day04/ex01/Brain.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

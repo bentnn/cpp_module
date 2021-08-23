@@ -1,8 +1,8 @@
-NAME	=	scavtrap
-OBJS	=	main.o ClapTrap.o ScavTrap.o
+NAME	=	diamondtrap
+OBJS	=	main.o ClapTrap.o ScavTrap.o FragTrap.o DiamondTrap.o
 
 
-FLAGS	=	-std=c++98 -Wall -Wextra -Werror
+FLAGS	=	-std=c++98 -Wall -Wextra -Werror -Wshadow -Wno-shadow
 
 CC		=	clang++
 

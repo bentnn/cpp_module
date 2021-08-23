@@ -469,6 +469,123 @@ CMakeFiles/cpp_module.dir/day03/ex01/ScavTrap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day03/ex01/ScavTrap.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day03/ex01/ScavTrap.cpp -o CMakeFiles/cpp_module.dir/day03/ex01/ScavTrap.cpp.s
 
+CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.o: ../day03/ex02/FragTrap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.o -c /Users/aabet/projects/cpp_module/day03/ex02/FragTrap.cpp
+
+CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day03/ex02/FragTrap.cpp > CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.i
+
+CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day03/ex02/FragTrap.cpp -o CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.s
+
+CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.o: ../day03/ex03/DiamondTrap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.o -c /Users/aabet/projects/cpp_module/day03/ex03/DiamondTrap.cpp
+
+CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day03/ex03/DiamondTrap.cpp > CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.i
+
+CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day03/ex03/DiamondTrap.cpp -o CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.s
+
+CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.o: ../day04/ex00/Animal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.o -c /Users/aabet/projects/cpp_module/day04/ex00/Animal.cpp
+
+CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day04/ex00/Animal.cpp > CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.i
+
+CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day04/ex00/Animal.cpp -o CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.s
+
+CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.o: ../day04/ex00/Dog.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.o -c /Users/aabet/projects/cpp_module/day04/ex00/Dog.cpp
+
+CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day04/ex00/Dog.cpp > CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.i
+
+CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day04/ex00/Dog.cpp -o CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.s
+
+CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.o: ../day04/ex00/Cat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.o -c /Users/aabet/projects/cpp_module/day04/ex00/Cat.cpp
+
+CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day04/ex00/Cat.cpp > CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.i
+
+CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day04/ex00/Cat.cpp -o CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.s
+
+CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.o: ../day04/ex00/WrongAnimal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.o -c /Users/aabet/projects/cpp_module/day04/ex00/WrongAnimal.cpp
+
+CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day04/ex00/WrongAnimal.cpp > CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.i
+
+CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day04/ex00/WrongAnimal.cpp -o CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.s
+
+CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.o: ../day04/ex00/WrongCat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.o -c /Users/aabet/projects/cpp_module/day04/ex00/WrongCat.cpp
+
+CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day04/ex00/WrongCat.cpp > CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.i
+
+CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day04/ex00/WrongCat.cpp -o CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.s
+
+CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.o: ../day04/ex00/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.o -c /Users/aabet/projects/cpp_module/day04/ex00/main.cpp
+
+CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day04/ex00/main.cpp > CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.i
+
+CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day04/ex00/main.cpp -o CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.s
+
+CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.o: CMakeFiles/cpp_module.dir/flags.make
+CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.o: ../day04/ex01/Brain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.o -c /Users/aabet/projects/cpp_module/day04/ex01/Brain.cpp
+
+CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aabet/projects/cpp_module/day04/ex01/Brain.cpp > CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.i
+
+CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aabet/projects/cpp_module/day04/ex01/Brain.cpp -o CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.s
+
 # Object files for target cpp_module
 cpp_module_OBJECTS = \
 "CMakeFiles/cpp_module.dir/day00/ex00/megaphone.cpp.o" \
@@ -501,7 +618,16 @@ cpp_module_OBJECTS = \
 "CMakeFiles/cpp_module.dir/day02/ex03/bsp.cpp.o" \
 "CMakeFiles/cpp_module.dir/day03/ex00/ClapTrap.cpp.o" \
 "CMakeFiles/cpp_module.dir/day03/ex00/main.cpp.o" \
-"CMakeFiles/cpp_module.dir/day03/ex01/ScavTrap.cpp.o"
+"CMakeFiles/cpp_module.dir/day03/ex01/ScavTrap.cpp.o" \
+"CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.o" \
+"CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.o" \
+"CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.o" \
+"CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.o" \
+"CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.o" \
+"CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.o" \
+"CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.o" \
+"CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.o" \
+"CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.o"
 
 # External object files for target cpp_module
 cpp_module_EXTERNAL_OBJECTS =
@@ -537,9 +663,18 @@ cpp_module: CMakeFiles/cpp_module.dir/day02/ex03/bsp.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/day03/ex00/ClapTrap.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/day03/ex00/main.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/day03/ex01/ScavTrap.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day03/ex02/FragTrap.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day03/ex03/DiamondTrap.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day04/ex00/Animal.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day04/ex00/Dog.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day04/ex00/Cat.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day04/ex00/WrongAnimal.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day04/ex00/WrongCat.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day04/ex00/main.cpp.o
+cpp_module: CMakeFiles/cpp_module.dir/day04/ex01/Brain.cpp.o
 cpp_module: CMakeFiles/cpp_module.dir/build.make
 cpp_module: CMakeFiles/cpp_module.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Linking CXX executable cpp_module"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Linking CXX executable cpp_module"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_module.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

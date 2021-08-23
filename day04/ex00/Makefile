@@ -1,5 +1,5 @@
-NAME	=	scavtrap
-OBJS	=	main.o ClapTrap.o ScavTrap.o
+NAME	=	animals
+OBJS	=	main.o Animal.o Cat.o Dog.o WrongAnimal.o WrongCat.o
 
 
 FLAGS	=	-std=c++98 -Wall -Wextra -Werror
