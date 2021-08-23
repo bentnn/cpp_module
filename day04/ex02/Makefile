@@ -1,4 +1,4 @@
-NAME	=	brains
+NAME	=	abstract
 OBJS	=	main.o Animal.o Cat.o Dog.o Brain.o
 
 

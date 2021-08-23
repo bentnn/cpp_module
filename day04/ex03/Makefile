@@ -1,5 +1,5 @@
-NAME	=	brains
-OBJS	=	main.o Animal.o Cat.o Dog.o Brain.o
+NAME	=	materia
+OBJS	=	main.o AMateria.o Character.o Cure.o Ice.o MateriaSource.o
 
 
 FLAGS	=	-std=c++98 -Wall -Wextra -Werror
