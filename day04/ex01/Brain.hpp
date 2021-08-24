@@ -7,6 +7,7 @@ class Brain {
 public:
 	Brain();
 	~Brain();
+	Brain(Brain const &a);
 	void set_ideas(std::string idea);
 	std::string *get_ideas();
 private:

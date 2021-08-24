@@ -7,6 +7,8 @@
 class Dog : public  Animal{
 public:
 	Dog();
+	Dog(Dog const &a);
+	Dog &operator=(Dog const &a);
 	virtual void makeSound() const;
 	~Dog();
 	void set_ideas(std::string idea);

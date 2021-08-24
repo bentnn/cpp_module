@@ -8,10 +8,12 @@ class Cat : public Animal{
 public:
 	Cat();
 	virtual void makeSound() const;
-
+	Cat(Cat const &a);
+	Cat &operator=(Cat const &a);
 	~Cat();
 	void set_ideas(std::string idea);
 	std::string *get_ideas();
+
 private:
 	Brain *brain;
 };

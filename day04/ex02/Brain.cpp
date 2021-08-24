@@ -8,6 +8,12 @@ Brain::~Brain() {
 	std::cout << "Brain was destroyed\n";
 }
 
+Brain::Brain(const Brain &a) {
+	for (int i = 0; i < 100; i++)
+		this->ideas[i] = a.ideas[i];
+	std::cout << "Brain was copied\n";
+}
+
 void Brain::set_ideas(std::string idea) {
 	for (int i = 0; i < 100; i++)
 		this->ideas[i] = idea;

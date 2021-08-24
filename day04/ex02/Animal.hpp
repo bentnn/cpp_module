@@ -3,10 +3,14 @@
 
 #include <iostream>
 
+#include "Brain.hpp"
+
 class Animal {
 public:
 	Animal();
 	virtual ~Animal();
+	Animal(Animal const &a);
+	Animal &operator=(Animal const &a);
 	virtual void makeSound() const = 0;
 	std::string getType() const;
 protected:
