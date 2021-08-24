@@ -18,5 +18,12 @@ int main()
 	delete bob;
 	delete me;
 	delete src;
+	Character *a = new Character("ben");
+	a->equip(new Ice());
+	Character *b = new Character(*a);
+	a->use(0, *b);
+	b->use(0, *a);
+	delete a;
+	delete b;
 	return 0;
 }
