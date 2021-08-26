@@ -15,7 +15,7 @@ public:
 	std::string getName() const;
 	int getGrade() const;
 private:
-	std::string name;
+	std::string const name;
 	int grade;
 class GradeTooHighException : public std::exception {
 	virtual const char* what() const throw() {

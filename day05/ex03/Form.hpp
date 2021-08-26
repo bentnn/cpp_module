@@ -9,7 +9,7 @@ class Form {
 public:
 	Form(std::string name, int grade_to_signin, int grade_to_execute);
 	Form(Form const &a);
-	~Form();
+	virtual ~Form();
 	Form &operator=(Form const &a);
 	void beSigned(Bureaucrat const &a);
 	std::string getName() const;

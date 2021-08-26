@@ -1,5 +1,5 @@
-NAME	=	aLotOfForms
-OBJS	=	main.o Bureaucrat.o Form.o PresidentialPardonForm.o RobotomyRequestForm.o ShrubberyCreationForm.o
+NAME	=	intern
+OBJS	=	main.o Bureaucrat.o Form.o PresidentialPardonForm.o RobotomyRequestForm.o ShrubberyCreationForm.o Intern.o
 
 
 FLAGS	=	-std=c++98 -Wall -Wextra -Werror
