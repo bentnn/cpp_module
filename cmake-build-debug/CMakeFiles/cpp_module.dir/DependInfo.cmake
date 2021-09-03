@@ -8,8 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/aabet/projects/cpp_module/day06/ex00/help_func.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day06/ex00/help_func.cpp.o"
   "/Users/aabet/projects/cpp_module/day06/ex00/main.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day06/ex00/main.cpp.o"
   "/Users/aabet/projects/cpp_module/day06/ex00/what_type_is_it.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day06/ex00/what_type_is_it.cpp.o"
+  "/Users/aabet/projects/cpp_module/day06/ex01/main.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day06/ex01/main.cpp.o"
+  "/Users/aabet/projects/cpp_module/day06/ex02/main.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day06/ex02/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

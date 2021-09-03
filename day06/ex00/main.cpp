@@ -1,34 +1,56 @@
 #include "conversion.hpp"
 
-void print_int(char const *arg)
+void print_int(char *arg)
 {
 	std::string str(arg);
-	int i = atoi(arg);
-	std::cout << "char: ";
-	if (i < 0 || i > 255)
-		std::cout << "impossible\n";
-	else
+	int i;
+	if ((arg[0] != '-' && (strlen(arg) > 10 || (strlen(arg) == 10 && strcmp(arg, "2147483647") > 0)))
+		|| (arg[0] == '-' && (strlen(arg) > 11 || (strlen(arg) == 11 && strcmp(&arg[1], "2147483648") > 0))))
 	{
-		if (i > 126 || i < 33)
-			std::cout << "Non displayable\n";
-		else
-			std::cout << static_cast<char>(i) << std::endl;
+		std::cout << "char: impossible\nint: impossible\n"
+					 "float: impossible\ndouble: impossible\n";
+		return;
 	}
+	else
+		i = stoi(str);
+	print_char_from_int(i);
+	std::cout << "int: " << i << "\nfloat: " << std::stof(str)
+		<< "f\ndouble: " << std::stod(str) << std::endl;
 }
 
 void print_char(char const *arg)
 {
-
+	std::cout << "char: " << arg[0] << "\nint: " << static_cast<int>(arg[0])
+		<< "\nfloat: " << static_cast<float>(arg[0])
+		<< "\ndouble: " << static_cast<double>(arg[0]) << std::endl;
 }
 
-void print_float(char const *arg)
+void print_float(char *arg)
 {
+	if (strcmp(arg, "+inff") == 0 || strcmp(arg, "-inff") == 0 || strcmp(arg, "nanf") == 0)
+	{
+		if (arg[0] == 'n')
+			arg[3] = 0x0;
+		else
+			arg[4] = 0x0;
+		print_inf_nan(arg);
+		return;
+	}
 
+	print_int_and_char(arg);
+	print_float_and_double(std::string(arg));
 }
 
-void print_double(char const *arg)
+void print_double(char *arg)
 {
+	if (strcmp(arg, "+inf") == 0 || strcmp(arg, "-inf") == 0 || strcmp(arg, "nan") == 0)
+	{
+		print_inf_nan(arg);
+		return;
+	}
 
+	print_int_and_char(arg);
+	print_float_and_double(std::string(arg));
 }
 
 

@@ -129,6 +129,30 @@ cpp_module/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/build
 .PHONY : cpp_module/fast
 
+day06/ex00/help_func.o: day06/ex00/help_func.cpp.o
+.PHONY : day06/ex00/help_func.o
+
+# target to build an object file
+day06/ex00/help_func.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex00/help_func.cpp.o
+.PHONY : day06/ex00/help_func.cpp.o
+
+day06/ex00/help_func.i: day06/ex00/help_func.cpp.i
+.PHONY : day06/ex00/help_func.i
+
+# target to preprocess a source file
+day06/ex00/help_func.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex00/help_func.cpp.i
+.PHONY : day06/ex00/help_func.cpp.i
+
+day06/ex00/help_func.s: day06/ex00/help_func.cpp.s
+.PHONY : day06/ex00/help_func.s
+
+# target to generate assembly for a file
+day06/ex00/help_func.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex00/help_func.cpp.s
+.PHONY : day06/ex00/help_func.cpp.s
+
 day06/ex00/main.o: day06/ex00/main.cpp.o
 .PHONY : day06/ex00/main.o
 
@@ -177,6 +201,54 @@ day06/ex00/what_type_is_it.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex00/what_type_is_it.cpp.s
 .PHONY : day06/ex00/what_type_is_it.cpp.s
 
+day06/ex01/main.o: day06/ex01/main.cpp.o
+.PHONY : day06/ex01/main.o
+
+# target to build an object file
+day06/ex01/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex01/main.cpp.o
+.PHONY : day06/ex01/main.cpp.o
+
+day06/ex01/main.i: day06/ex01/main.cpp.i
+.PHONY : day06/ex01/main.i
+
+# target to preprocess a source file
+day06/ex01/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex01/main.cpp.i
+.PHONY : day06/ex01/main.cpp.i
+
+day06/ex01/main.s: day06/ex01/main.cpp.s
+.PHONY : day06/ex01/main.s
+
+# target to generate assembly for a file
+day06/ex01/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex01/main.cpp.s
+.PHONY : day06/ex01/main.cpp.s
+
+day06/ex02/main.o: day06/ex02/main.cpp.o
+.PHONY : day06/ex02/main.o
+
+# target to build an object file
+day06/ex02/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex02/main.cpp.o
+.PHONY : day06/ex02/main.cpp.o
+
+day06/ex02/main.i: day06/ex02/main.cpp.i
+.PHONY : day06/ex02/main.i
+
+# target to preprocess a source file
+day06/ex02/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex02/main.cpp.i
+.PHONY : day06/ex02/main.cpp.i
+
+day06/ex02/main.s: day06/ex02/main.cpp.s
+.PHONY : day06/ex02/main.s
+
+# target to generate assembly for a file
+day06/ex02/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day06/ex02/main.cpp.s
+.PHONY : day06/ex02/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -186,12 +258,21 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cpp_module"
+	@echo "... day06/ex00/help_func.o"
+	@echo "... day06/ex00/help_func.i"
+	@echo "... day06/ex00/help_func.s"
 	@echo "... day06/ex00/main.o"
 	@echo "... day06/ex00/main.i"
 	@echo "... day06/ex00/main.s"
 	@echo "... day06/ex00/what_type_is_it.o"
 	@echo "... day06/ex00/what_type_is_it.i"
 	@echo "... day06/ex00/what_type_is_it.s"
+	@echo "... day06/ex01/main.o"
+	@echo "... day06/ex01/main.i"
+	@echo "... day06/ex01/main.s"
+	@echo "... day06/ex02/main.o"
+	@echo "... day06/ex02/main.i"
+	@echo "... day06/ex02/main.s"
 .PHONY : help
 
 

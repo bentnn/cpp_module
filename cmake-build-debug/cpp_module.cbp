@@ -83,10 +83,19 @@
 		<Unit filename="/Users/aabet/projects/cpp_module/day06/ex00/conversion.hpp">
 			<Option target="cpp_module"/>
 		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day06/ex00/help_func.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
 		<Unit filename="/Users/aabet/projects/cpp_module/day06/ex00/main.cpp">
 			<Option target="cpp_module"/>
 		</Unit>
 		<Unit filename="/Users/aabet/projects/cpp_module/day06/ex00/what_type_is_it.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day06/ex01/main.cpp">
+			<Option target="cpp_module"/>
+		</Unit>
+		<Unit filename="/Users/aabet/projects/cpp_module/day06/ex02/main.cpp">
 			<Option target="cpp_module"/>
 		</Unit>
 		<Unit filename="/Users/aabet/projects/cpp_module/CMakeLists.txt">

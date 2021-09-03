@@ -1,5 +1,5 @@
-NAME	=	converter
-OBJS	=	main.o what_type_is_it.o help_func.o
+NAME	=	identify
+OBJS	=	main.o
 
 
 FLAGS	=	-std=c++98 -MMD -Wall -Wextra -Werror
