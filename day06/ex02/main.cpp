@@ -12,12 +12,18 @@ class C : public Base {};
 Base * generate(void) {
 	std::srand(std::time(nullptr));
 	int a = std::rand();
-	if (a % 3 == 0)
+	if (a % 3 == 0) {
+		std::cout << "it will be A\n";
 		return new A();
-	if (a % 3 == 1)
+	}
+	if (a % 3 == 1) {
+		std::cout << "it will be B\n";
 		return new B();
-	else
+	}
+	else {
+		std::cout << "it will be C\n";
 		return new C();
+	}
 }
 
 void identify(Base* p) {

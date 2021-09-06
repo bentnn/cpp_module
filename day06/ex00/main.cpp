@@ -14,8 +14,8 @@ void print_int(char *arg)
 	else
 		i = stoi(str);
 	print_char_from_int(i);
-	std::cout << "int: " << i << "\nfloat: " << std::stof(str)
-		<< "f\ndouble: " << std::stod(str) << std::endl;
+	std::cout << "int: " << i << std::fixed << std::setprecision(1) << "\nfloat: " << static_cast<float>(i)
+		<< "f\ndouble: " << static_cast<double>(i) << std::endl;
 }
 
 void print_char(char const *arg)

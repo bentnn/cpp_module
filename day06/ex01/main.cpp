@@ -1,8 +1,8 @@
 #include <iostream>
 
 typedef struct Data {
-	std::string name;
-	int age;
+	int a;
+	int b;
 } Data;
 
 uintptr_t serialize(Data* ptr) {
@@ -14,14 +14,14 @@ Data* deserialize(uintptr_t raw) {
 }
 
 int main() {
-	Data *me = new Data;
+	Data *my_data = new Data;
 	uintptr_t temp;
 
-	me->name = "Ben";
-	me->age = 228;
-	std::cout << "Before serializing. Name: " << me->name << ", age: " << me->age << std::endl;
-	temp = serialize(me);
-	delete me;
-	me = deserialize(temp);
-	std::cout << "After serializing. Name: " << me->name << ", age: " << me->age << std::endl;
+	my_data->a = 322;
+	my_data->b = 228;
+	std::cout << "Before serializing. a: " << my_data->a << ", b: " << my_data->b << std::endl;
+	temp = serialize(my_data);
+	delete my_data;
+	my_data = deserialize(temp);
+	std::cout << "After serializing. a: " << my_data->a << ", b: " << my_data->b << std::endl;
 }
