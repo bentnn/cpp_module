@@ -153,6 +153,30 @@ day07/ex00/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day07/ex00/main.cpp.s
 .PHONY : day07/ex00/main.cpp.s
 
+day07/ex01/main.o: day07/ex01/main.cpp.o
+.PHONY : day07/ex01/main.o
+
+# target to build an object file
+day07/ex01/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day07/ex01/main.cpp.o
+.PHONY : day07/ex01/main.cpp.o
+
+day07/ex01/main.i: day07/ex01/main.cpp.i
+.PHONY : day07/ex01/main.i
+
+# target to preprocess a source file
+day07/ex01/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day07/ex01/main.cpp.i
+.PHONY : day07/ex01/main.cpp.i
+
+day07/ex01/main.s: day07/ex01/main.cpp.s
+.PHONY : day07/ex01/main.s
+
+# target to generate assembly for a file
+day07/ex01/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_module.dir/build.make CMakeFiles/cpp_module.dir/day07/ex01/main.cpp.s
+.PHONY : day07/ex01/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... day07/ex00/main.o"
 	@echo "... day07/ex00/main.i"
 	@echo "... day07/ex00/main.s"
+	@echo "... day07/ex01/main.o"
+	@echo "... day07/ex01/main.i"
+	@echo "... day07/ex01/main.s"
 .PHONY : help
 
 

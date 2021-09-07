@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/aabet/projects/cpp_module/day07/ex00/main.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day07/ex00/main.cpp.o"
+  "/Users/aabet/projects/cpp_module/day07/ex01/main.cpp" "/Users/aabet/projects/cpp_module/cmake-build-debug/CMakeFiles/cpp_module.dir/day07/ex01/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

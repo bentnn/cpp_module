@@ -1,4 +1,13 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/aabet/projects/cpp_module
 -- Configuring done
--- Generating done
--- Build files have been written to: /Users/aabet/projects/cpp_module/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    day07/ex01/iter.h
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: cpp_module
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
